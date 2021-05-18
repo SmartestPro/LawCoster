@@ -2,7 +2,7 @@
   display: none !important;
 }
 .navbar.navbar-sticky + * {
-  margin-top: 200px !important;
+  margin-top: 20px !important;
 }
 #ff-title-root {
   font-size: 43px !important;
