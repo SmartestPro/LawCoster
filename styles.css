@@ -1,5 +1,5 @@
 .navbar {
-  display: none;
+  display: none !important;
 }
 .navbar.navbar-sticky + * {
   margin-top: 0px !important;
