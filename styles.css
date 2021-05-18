@@ -4,7 +4,6 @@
 .navbar.navbar-sticky + * {
   margin-top: 0px !important;
 }
-
 #ff-title-root {
   font-size: 43px !important;
   font-weight: bold!important;
